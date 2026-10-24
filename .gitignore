@@ -1,0 +1,37 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Sessão e autenticação do WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Dados privados e pedidos
+pedidos.json
+data/pedidos.json
+credenciais.txt
+data/estoque/
+estoque/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Arquivos temporários
+.tmp/
+temp/
+.cache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
