@@ -10,7 +10,7 @@ O projeto inclui menu por palavras-chave, catálogo configurável, fluxo básico
 
 - Node.js 20 ou superior.
 - WhatsApp no celular para escanear o QR Code na primeira conexão.
-- Para pagamentos automáticos: uma conta e credenciais válidas da NexusPag, além de uma URL pública para receber webhooks.
+- Para pagamentos automáticos: uma conta e credenciais válidas da NexusPag (ou configure para outro gateway), além de uma URL pública para receber webhooks.
 
 ## 2. Instalar no Windows
 
